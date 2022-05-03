@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\BATAMON\bin\Debug\BATAMON.exe.config
+C:\Users\Usuario\source\repos\BATAMON\bin\Debug\BATAMON.exe
+C:\Users\Usuario\source\repos\BATAMON\bin\Debug\BATAMON.pdb
+C:\Users\Usuario\source\repos\BATAMON\bin\Debug\BATAMON.xml
+C:\Users\Usuario\source\repos\BATAMON\obj\Debug\BATAMON.vbprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\BATAMON\obj\Debug\BATAMON.Resources.resources
+C:\Users\Usuario\source\repos\BATAMON\obj\Debug\BATAMON.vbproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\BATAMON\obj\Debug\BATAMON.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\BATAMON\obj\Debug\BATAMON.exe
+C:\Users\Usuario\source\repos\BATAMON\obj\Debug\BATAMON.xml
+C:\Users\Usuario\source\repos\BATAMON\obj\Debug\BATAMON.pdb
